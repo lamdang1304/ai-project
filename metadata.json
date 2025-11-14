@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Huyền Học AI - Tổng Hợp",
+  "description": "Ứng dụng tổng hợp Nhân tướng, Bát tự và Thần số học để dự đoán vận mệnh toàn diện.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

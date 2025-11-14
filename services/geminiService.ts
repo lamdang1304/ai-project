@@ -2,7 +2,7 @@ import { GoogleGenAI } from "@google/genai";
 import { UserProfile } from "../types";
 
 // Initialize Gemini Client
-const ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
+const ai = new GoogleGenAI({ apiKey: 'AIzaSyAkhW6YBF_qufA0_yDG-btfrpbakaUUI4A' });
 
 const UNIFIED_DESTINY_PROMPT = (profile: UserProfile) => `
 Bạn là một Đại Sư Huyền Học, am hiểu sâu sắc về Nhân Tướng Học, Bát Tự (Tử Bình) và Thần Số Học (Pythagoras).
